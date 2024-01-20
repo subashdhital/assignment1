@@ -7,6 +7,7 @@
 *  Name: Subash Dhital      Student ID: sdhital1 (123345233)        Date: Jan 19, 2024
 *
 ********************************************************************************/ 
+
 // Step 3
 // Defining arrays for server verbs, paths, and responses
 var serverVerbs = ["GET", "GET", "GET", "POST", "GET", "POST"]
@@ -51,6 +52,7 @@ console.log(getRandomInt(3)); // Expected output: 0, 1, or 2
 console.log(getRandomInt(1)); // Expected output: 0
 console.log(Math.random()); // Expected output: a number from 0 to <1
 */
+
 // Define arrays for test verbs and paths
 const testVerbs = ["GET", "POST"];
 const testPaths = ["/", "/about", "/contact", "/login", "/panel", "/logout", "/randomPath1", "/randomPath2"];
