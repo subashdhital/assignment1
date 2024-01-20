@@ -48,12 +48,12 @@ function getRandomInt(max) {
     return Math.floor(Math.random() * max);
 }
 
-/*
+
 // Output some test cases for getRandomInt function
 console.log(getRandomInt(3)); // Expected output: 0, 1, or 2
 console.log(getRandomInt(1)); // Expected output: 0
 console.log(Math.random()); // Expected output: a number from 0 to <1
-*/
+
 
 // Define arrays for test verbs and paths
 const testVerbs = ["GET", "POST"];
