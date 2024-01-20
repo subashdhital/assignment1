@@ -57,7 +57,7 @@ console.log(Math.random()); // Expected output: a number from 0 to <1
 const testVerbs = ["GET", "POST"];
 const testPaths = ["/", "/about", "/contact", "/login", "/panel", "/logout", "/randomPath1", "/randomPath2"];
 
-console.log(httpRequest(testVerbs[1], testPaths[4]));
+//console.log(httpRequest(testVerbs[1], testPaths[4]));
 
 
 // Define a function to automate tests using setInterval
